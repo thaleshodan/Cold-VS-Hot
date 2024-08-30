@@ -60,10 +60,14 @@ Estratégia de Segurança Ideal:
     Diversificação: Muitos investidores experientes utilizam uma combinação de hot e cold wallets para equilibrar a acessibilidade e a segurança. Por exemplo, podem manter uma parte menor de seus ativos em hot wallets para transações diárias e o restante em cold wallets para proteção a longo prazo.
 
 
+![qualquer coisa](https://github.com/user-attachments/assets/13f19b50-bdc4-4f94-8d79-01537fd27236)
+
+
+
 Tipos de Exchanges
 
     Exchanges Centralizadas (CEXs):
-        Definição: São plataformas de negociação controladas por uma entidade centralizada. Exemplos incluem Binance, Coinbase e Kraken.
+        Definição: São plataformas de negociação controladas por uma entidade centralizada. Exemplos incluem Binance, Coinbase
         Funcionamento: Os usuários criam contas na exchange e confiam nela para armazenar seus fundos, executar transações e manter registros. As transações são executadas através do livro de ordens da exchange, e a liquidez é geralmente alta devido ao volume de negociação.
 
     Exchanges Descentralizadas (DEXs):
